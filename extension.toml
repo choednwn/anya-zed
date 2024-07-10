@@ -1,8 +1,8 @@
 id = "anya"
 name = "Anya Theme"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
-description = "Keeping it minimal and readable. Inspired by Vesper."
+description = "Anya Theme for Zed"
 repository = "https://github.com/anya-theme/anya-zed"
 authors = ["choednwn <contact@choednwn.com>"]
 themes = ["themes/anya.json"]
